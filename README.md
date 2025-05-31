@@ -1,4 +1,4 @@
-# This package is no longer being updated! Please look for alternatives if that bothers you.
+# ~~This package is no longer being updated! Please look for alternatives if that bothers you.~~
 
 Resize
 ======
